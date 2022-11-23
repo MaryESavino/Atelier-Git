@@ -1,2 +1,2 @@
 # Atelier-Git
-README
+Pour afficher quelques exemples

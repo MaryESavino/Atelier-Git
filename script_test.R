@@ -1,4 +1,4 @@
 rm(list=ls())
 
 a=runif(50)
-c=10
+d=100

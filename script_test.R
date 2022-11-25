@@ -2,3 +2,5 @@ rm(list=ls())
 
 a=runif(50)
 b=rnorm(50)
+
+c = rnorm(100)

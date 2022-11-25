@@ -1,4 +1,1 @@
-rm(list=ls())
-
-a=runif(50)
-b=rnorm(50)
+#Ce script est en test
